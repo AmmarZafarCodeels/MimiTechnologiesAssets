@@ -1,0 +1,162 @@
+{
+  "Templates": [
+    {
+      "id": 12000,
+      "title": [
+        "Love",
+        "Love"
+      ],
+      "parent": "all_sub_categories",
+      "showSeeAll": "true",
+      "PackList": [
+        {
+          "id": 12001,
+          "title": "love_frame_1",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/1/1_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/1/1_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/1/1_mask.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12002,
+          "title": "love_frame_2",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_mask_1.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_mask_2.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12003,
+          "title": "love_frame_3",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/3/3_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/3/3_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/3/3_mask.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12004,
+          "title": "love_frame_4",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/4/4_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/4/4_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/4/4_mask.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12005,
+          "title": "love_frame_5",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_mask_1.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_mask_2.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12006,
+          "title": "love_frame_6",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_mask_1.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_mask_2.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_mask_3.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12007,
+          "title": "love_frame_7",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/7/7_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/7/7_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/7/7_mask.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12008,
+          "title": "love_frame_8",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_mask_1.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_mask_2.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12009,
+          "title": "love_frame_9",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_mask_1.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_mask_2.webp",
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_mask_3.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 12010,
+          "title": "love_frame_10",
+          "cat_id": 12000,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/10/10_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/10/10_frame.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/10/10_mask.webp"
+          ],
+          "foregrounds": [],
+          "editor": "frames",
+          "tag_title": "free",
+          "state": "online"
+        }
+      ]
+    }
+  ]
+}
