@@ -1,158 +1,427 @@
 {
   "Templates": [
     {
-      "id": 12000,
+      "id": 6100200,
       "title": [
-        "Love",
-        "Love"
+        "Explore Magic Photography",
+        "Artistic"
       ],
-      "parent": "all_sub_categories",
+      "parent": "all_home_categories",
       "showSeeAll": "true",
       "PackList": [
         {
-          "id": 12001,
-          "title": "love_frame_1",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/1/1_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/1/1_frame.webp",
+          "id": 6100201,
+          "title": "artistic_1",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/1/1_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/1/1_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/1/1_mask.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/1/1_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/1/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12002,
-          "title": "love_frame_2",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_frame.webp",
+          "id": 6100202,
+          "title": "artistic_2",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/2/2_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/2/2_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_mask_1.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/2/2_mask_2.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/2/2_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/2/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12003,
-          "title": "love_frame_3",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/3/3_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/3/3_frame.webp",
+          "id": 6100203,
+          "title": "artistic_3",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/3/3_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/3/3_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/3/3_mask.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/3/3_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/3/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12004,
-          "title": "love_frame_4",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/4/4_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/4/4_frame.webp",
+          "id": 6100204,
+          "title": "artistic_4",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/4/4_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/4/4_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/4/4_mask.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/4/4_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/4/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12005,
-          "title": "love_frame_5",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_frame.webp",
+          "id": 6100205,
+          "title": "artistic_5",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/5/5_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/5/5_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_mask_1.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/5/5_mask_2.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/5/5_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/5/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12006,
-          "title": "love_frame_6",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_frame.webp",
+          "id": 6100206,
+          "title": "artistic_6",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/6/6_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/6/6_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_mask_1.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_mask_2.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/6/6_mask_3.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/6/6_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/6/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12007,
-          "title": "love_frame_7",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/7/7_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/7/7_frame.webp",
+          "id": 6100207,
+          "title": "artistic_7",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/7/7_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/7/7_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/7/7_mask.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/7/7_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/7/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12008,
-          "title": "love_frame_8",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_frame.webp",
+          "id": 6100208,
+          "title": "artistic_8",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/8/8_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/8/8_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_mask_1.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/8/8_mask_2.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/8/8_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/8/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12009,
-          "title": "love_frame_9",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_frame.webp",
+          "id": 6100209,
+          "title": "artistic_9",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/9/9_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/9/9_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_mask_1.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_mask_2.webp",
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/9/9_mask_3.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/9/9_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/9/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         },
         {
-          "id": 12010,
-          "title": "love_frame_10",
-          "cat_id": 12000,
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/10/10_cover.webp",
-          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/10/10_frame.webp",
+          "id": 6100210,
+          "title": "artistic_10",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/10/10_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/10/10_bg.webp",
           "masks": [
-            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Frames/Love/10/10_mask.webp"
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/10/10_mask.webp"
           ],
-          "foregrounds": [],
-          "editor": "frames",
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/10/lighten.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100211,
+          "title": "artistic_11",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/11/11_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/11/11_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/11/11_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/11/darken.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100212,
+          "title": "artistic_12",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/12/12_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/12/12_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/12/12_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/12/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100213,
+          "title": "artistic_13",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/13/13_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/13/13_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/13/13_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/13/darken.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100214,
+          "title": "artistic_14",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/14/14_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/14/14_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/14/14_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/14/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100215,
+          "title": "artistic_15",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/15/15_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/15/15_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/15/15_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/15/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100216,
+          "title": "artistic_16",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/16/16_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/16/16_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/16/16_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/16/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100217,
+          "title": "artistic_17",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/17/17_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/17/17_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/17/17_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/17/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100218,
+          "title": "artistic_18",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/18/18_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/18/18_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/18/18_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/18/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100219,
+          "title": "artistic_19",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/19/19_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/19/19_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/19/19_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/19/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100220,
+          "title": "artistic_20",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/20/20_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/20/20_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/20/20_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/20/lighten.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100221,
+          "title": "artistic_21",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/21/21_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/21/21_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/21/21_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/21/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100222,
+          "title": "artistic_22",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/22/22_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/22/22_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/22/22_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/22/soft-light.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100223,
+          "title": "artistic_23",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/23/23_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/23/23_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/23/23_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/23/overlay.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100224,
+          "title": "artistic_24",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/24/24_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/24/24_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/24/24_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/24/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100225,
+          "title": "artistic_25",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/25/25_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/25/25_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/25/25_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/25/screen.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
+          "tag_title": "free",
+          "state": "online"
+        },
+        {
+          "id": 6100226,
+          "title": "artistic_26",
+          "cat_id": 6100200,
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/26/26_cover.webp",
+          "file": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/26/26_bg.webp",
+          "masks": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/26/26_mask.webp"
+          ],
+          "foregrounds": [
+            "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/Home/Magic%20Overlay/26/lighten.webp"
+          ],
+          "editor": "exposure_editor_porterduff_magic_effects",
           "tag_title": "free",
           "state": "online"
         }
