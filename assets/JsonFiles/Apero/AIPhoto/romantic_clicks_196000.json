@@ -103,7 +103,7 @@
           "keep_face": null
         },
         {
-          "id": 196004,
+          "id": 196005,
           "title": "Feather Dress Glam",
           "cat_id": 196000,
           "template_type": "image",
@@ -135,7 +135,7 @@
           "keep_face": null
         },
         {
-          "id": 196005,
+          "id": 196006,
           "title": "Red Fedora Roses",
           "cat_id": 196000,
           "template_type": "image",
@@ -167,7 +167,7 @@
           "keep_face": null
         },
         {
-          "id": 196006,
+          "id": 196007,
           "title": "Sweet Cupid Wink",
           "cat_id": 196000,
           "template_type": "image",
@@ -199,7 +199,7 @@
           "keep_face": null
         },
         {
-          "id": 196007,
+          "id": 196008,
           "title": "Cupid Archer Pose",
           "cat_id": 196000,
           "template_type": "image",
@@ -231,7 +231,7 @@
           "keep_face": null
         },
         {
-          "id": 196008,
+          "id": 196009,
           "title": "Playful Cupid Jump",
           "cat_id": 196000,
           "template_type": "image",
@@ -263,7 +263,7 @@
           "keep_face": null
         },
         {
-          "id": 196009,
+          "id": 196010,
           "title": "Giant Teddy Surprise",
           "cat_id": 196000,
           "template_type": "image",
@@ -273,38 +273,6 @@
           "mode": "IMAGE_EDITING",
           "positive_prompts": [
             "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve exact facial structure, eye shape, eye color, eyebrows, nose, lips, jawline, chin, skin texture, facial proportions. NO FRECKLES. SKIN TEXTURE (CRITICAL): realistic. LIPS & MICRO-DETAIL (CRITICAL): preserve original lip shape exactly with natural pink tint and slight satin sheen. HAIR PRESERVATION (STRICT): Preserve original hairstyle exactly.\n\nFULL-BODY STUDIO PORTRAIT: Stunning woman with oval face shape and radiant porcelain skin, standing gracefully and smiling. From side of frame giant fluffy cream-colored teddy bear entering scene and gently leaning toward her, presenting massive dense bouquet of deep red and soft pink roses into her hands. Teddy bear positioned slightly behind and beside her creating romantic surprise gift moment. Woman receiving bouquet with warm joyful smile. Wearing floor-length shimmering crimson silk gown with high thigh-slit.\n\nFACIAL & EYE DETAILS: Large almond-shaped clear blue-gray eyes matching original eye color with high-definition iris textures. Fine individual dark eyelashes and perfectly groomed natural honey-blonde arched eyebrows. Soft warm glint in pupils reflecting studio softboxes. Symmetrical warm smile showing natural white teeth. Softly contoured cheekbones with subtle rosy glow. Thin well-defined lips matching original lip shape exactly.\n\nHAIR: Voluminous side-parted strawberry blonde hair styled in soft polished Hollywood waves draping over left shoulder.\n\nENVIRONMENT & LIGHTING: Minimalist high-key cream studio backdrop with floating red paper hearts. Glass tiered stand to side holds delicate pastel macarons and cupcakes. Floor scattered with realistic red rose petals. Professional three-point lighting. Soft wrapping key light eliminating harsh shadows on face while maintaining depth and texture in crimson silk dress.\n\n9:16 vertical, ultra-high-resolution, hyper-realistic photography, studio fashion portrait, 8K detail, sharp focus, natural skin texture, romantic cinematic Valentine's Day atmosphere, luxury editorial photography aesthetic."
-          ],
-          "negative_prompt": "freckles, face reshaping, identity change, AI beautify, over-smoothing, plastic skin, pore removal, changed hairstyle, cartoon, anime, CGI, low-res, blurry, watermark, text, borders",
-          "editor": "apero_qwen_image_editor",
-          "tag_title": "free",
-          "is_video_template": false,
-          "frame_number": null,
-          "frame_rate": null,
-          "width": null,
-          "height": null,
-          "guidance_scale": null,
-          "steps": null,
-          "image_size": null,
-          "use_image_caption": null,
-          "use_frame_interpolation": null,
-          "enable_swapface": null,
-          "enable_inpaint": null,
-          "upscaler_x_times": null,
-          "enable_assistant": null,
-          "seed": null,
-          "keep_face": null
-        },
-        {
-          "id": 196010,
-          "title": "Pink Dress Confidence",
-          "cat_id": 196000,
-          "template_type": "image",
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/RomanticClicks/romantic_click_10.webp",
-          "imageCount": 1,
-          "credits": 1,
-          "mode": "IMAGE_EDITING",
-          "positive_prompts": [
-            "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve exact facial structure, eye shape, eye color, eyebrows, nose, lips, jawline, chin, skin texture, facial proportions. NO FRECKLES. SKIN TEXTURE (CRITICAL): flawless luminous with natural dewy glow showing realistic soft contours. LIPS & MICRO-DETAIL (CRITICAL): preserve original lip shape exactly. HAIR PRESERVATION (STRICT): Preserve original hairstyle exactly.\n\nELEGANT STANDING PORTRAIT: Beautiful woman with radiant porcelain skin standing gracefully with confident posture. Warm joyful smile. Wearing elegant attire appropriate for romantic Valentine's setting.\n\nFACIAL & EYE DETAILS: Large almond-shaped clear eyes matching original eye color with high-definition iris textures, fine individual lashes, perfectly groomed natural arched eyebrows. Soft warm glint in pupils. Symmetrical warm smile showing natural white teeth. Softly contoured cheekbones with subtle rosy glow. Well-defined lips with natural tint and slight satin sheen matching original lip shape exactly.\n\nHAIR: Voluminous styled hair draping elegantly, matching original hair color and style exactly.\n\nENVIRONMENT & LIGHTING: Minimalist high-key studio backdrop with romantic Valentine's Day decorations. Professional three-point lighting creating soft wrapping key light that eliminates harsh shadows on face while maintaining depth and texture.\n\n9:16 vertical, ultra-high-resolution, hyper-realistic photography, studio fashion portrait, 8K detail, sharp focus, natural skin texture, romantic cinematic atmosphere, luxury editorial photography aesthetic."
           ],
           "negative_prompt": "freckles, face reshaping, identity change, AI beautify, over-smoothing, plastic skin, pore removal, changed hairstyle, cartoon, anime, CGI, low-res, blurry, watermark, text, borders",
           "editor": "apero_qwen_image_editor",
