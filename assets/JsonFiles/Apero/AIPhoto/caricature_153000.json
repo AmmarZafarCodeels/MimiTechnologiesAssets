@@ -1,0 +1,115 @@
+{
+  "Templates": [
+    {
+      "id": 153000,
+      "title": [
+        "Top Trending",
+        "Top Trending"
+      ],
+      "parent": "all_apero_qwen_categories",
+      "showSeeAll": "true",
+      "PackList": [
+        {
+          "id": 153023,
+          "title": "Pasta Joy",
+          "cat_id": 153000,
+          "template_type": "video",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Caricature/caricature_1.gif",
+          "imageCount": 1,
+          "credits": 10,
+          "mode": "i2vp,[seedance-lite]",
+          "positive_prompts": [
+            "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial structure, eye shape, eye color, facial proportions in stylized caricature form. Transform into modern manhwa/webtoon digital illustration style.\n\nCARICATURE STYLE: High-quality digital illustration with clean-line ink finish, smooth cel-shading, vibrant warm color palette.\n\nCORE SUBJECT & ACTION: Young woman with joyful expression, captured mid-bite eating spaghetti. Holding silver fork to open mouth with long strands of pasta dangling down. Other hand rests gently on edge of white ceramic plate filled with spaghetti bolognese, topped with fresh basil leaves and grated parmesan.\n\nFACIAL DETAILS: Vibrant warm peach skin tone with soft orange-pink circular blush on cheeks. Eyes tightly closed in happy squint (u-shaped arc), depicted by thick clean black lines with delicate upturned eyelashes at outer corners. Thin dark brown eyebrows arched high in delight. Small simple button nose. Wide joyful open mouth showing clean white upper row of teeth.\n\nHAIR: Rich chocolate brown, styled in voluminous shoulder-length wavy bob with deep side part. Smooth cel-shading with bright golden-tan highlights following curve of waves, glossy bouncy texture.\n\nOUTFIT: Beige ribbed turtleneck sweater with fine vertical lines.\n\nSETTING: Softly blurred upscale Italian restaurant with warm wooden wall paneling, framed picture, golden ambient lighting from wall sconces. Warm inviting color palette dominated by creams, browns, soft ambers.\n\n9:16 vertical, modern manhwa/webtoon style, clean-line finish, warm color grading, professional digital illustration, 8K quality.",
+            "Use attached input image from frame 0. Subject maintains joyful eating expression with slight natural movements - gentle head tilt, slight eye squint variation, natural breathing. Fork and pasta strands move slightly with eating motion. Smooth continuous animation preserving caricature style and identity throughout all frames.",
+            "Combine both prompts to create seamless caricature-style video of woman joyfully eating pasta in Italian restaurant, preserving facial identity in manhwa/webtoon illustration style from frame 0 throughout."
+          ],
+          "negative_prompt": "photorealistic, realistic photo, normal proportions, no caricature style, no cel-shading, flat colors, dull colors, 3D render, rough edges, sketchy lines, low quality, blurry, completely different face, wrong eye color, harsh lighting, watermark, logo, signature, text, borders, frames, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, stiff movement",
+          "editor": "apero_video_editor",
+          "tag_title": "new",
+          "is_video_template": true,
+          "frame_number": 80,
+          "frame_rate": 23,
+          "width": 576,
+          "height": 576,
+          "guidance_scale": 7,
+          "steps": 30,
+          "image_size": 576,
+          "use_image_caption": false,
+          "use_frame_interpolation": false,
+          "enable_swapface": false,
+          "enable_inpaint": false,
+          "upscaler_x_times": null,
+          "enable_assistant": false,
+          "seed": -1,
+          "keep_face": true
+        },
+        {
+          "id": 153024,
+          "title": "Cozy Reader",
+          "cat_id": 153000,
+          "template_type": "video",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiVideos/Caricature/caricature_2.gif",
+          "imageCount": 1,
+          "credits": 10,
+          "mode": "i2vp,[seedance-lite]",
+          "positive_prompts": [
+            "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial structure, eye shape, eye color, facial proportions in stylized caricature form. Transform into modern semi-realistic anime/webtoon illustration style.\n\nCARICATURE STYLE: High-quality digital illustration with clean lines, soft cel-shading with painterly textures, vibrant warm tones.\n\nCORE SUBJECT: Young woman with large expressive chestnut-brown almond-shaped eyes with distinct white specular highlights and thick dark eyelashes. Joyful wide open-mouth smile showing white teeth, rosy blush on cheeks, petite nose. Voluminous wavy mid-length chocolate brown hair with subtle caramel highlights, framing face softly.\n\nATTIRE & POSE: Wearing thick cream-colored cable-knit turtleneck sweater. Sitting at wooden cafe table, holding open hardcover book with both hands.\n\nFOREGROUND DETAILS: On table sits white ceramic cup of cafe latte with heart-shaped latte art, small plate with three chocolate chip cookies, pair of black-rimmed glasses.\n\nSETTING & ATMOSPHERE: Cozy sun-drenched library or book-cafe. Large arched windows allow warm golden afternoon sunlight streaming in creating soft glow. Tall floor-to-ceiling bookshelves filled with books line walls. Two blurred male figures seated at separate tables in background, quietly reading.\n\nLIGHTING & COLOR PALETTE: Warm monochromatic golden-brown and cream color scheme. Soft cel-shading with painterly textures. Backlit atmospheric lighting emphasizing cozy academia vibe.\n\n9:16 vertical, semi-realistic anime/webtoon style, warm color grading, professional digital illustration, high resolution, 8K quality.",
+            "Use attached input image from frame 0. Subject maintains joyful reading expression with subtle natural movements - gentle page turning motion, slight head movement, natural breathing, eyes moving across book pages. Warm sunlight gently shifts creating soft atmospheric changes. Smooth continuous animation preserving caricature style and identity throughout all frames.",
+            "Combine both prompts to create seamless caricature-style video of woman reading happily in cozy library cafe with warm sunlight, preserving facial identity in anime/webtoon illustration style from frame 0 throughout."
+          ],
+          "negative_prompt": "photorealistic, realistic photo, normal proportions, no caricature style, no cel-shading, flat colors, dull colors, cold lighting, 3D render, rough edges, sketchy lines, low quality, blurry, completely different face, wrong eye color, harsh lighting, dark atmosphere, watermark, logo, signature, text, borders, frames, jitter, flicker, pixelation, choppy animation, face flickering, identity drift, stiff movement, unnatural motion",
+          "editor": "apero_video_editor",
+          "tag_title": "new",
+          "is_video_template": true,
+          "frame_number": 80,
+          "frame_rate": 23,
+          "width": 576,
+          "height": 576,
+          "guidance_scale": 7,
+          "steps": 30,
+          "image_size": 576,
+          "use_image_caption": false,
+          "use_frame_interpolation": false,
+          "enable_swapface": false,
+          "enable_inpaint": false,
+          "upscaler_x_times": null,
+          "enable_assistant": false,
+          "seed": -1,
+          "keep_face": true
+        },
+        {
+          "id": 153016,
+          "title": "Winter Horse Promise",
+          "cat_id": 153000,
+          "template_type": "image",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/TopTrending/couple_kneel_horse.webp",
+          "imageCount": 2,
+          "credits": 1,
+          "mode": "IMAGE_EDITING",
+          "positive_prompts": [
+            "CRITICAL: Extract both faces exactly from inputs - preserve ALL features, bone structure, eyes, nose, mouth, lips, jawline with ZERO alterations. EXACT LIP SHAPE (thickness, width, curve, cupid's bow), eye shape, eye color, eyebrows, nose, cheekbones mandatory from input photos. Preserve original hairstyles, hair color, texture, length exactly. Only clothing adapts - FACES, LIPS, HAIR are perfect unaltered copies. Maximum facial fidelity required.\n\nWinter romance with black horse: Girl seated on a majestic black horse wearing a gray medieval-style dress with flowing black cape, looking down tenderly. Boy kneeling in the snow holding the reins, wearing a black sweater, gray pants, and black boots, looking up at her. Horse has visible bridle, snowflakes resting on mane.\n\nSCENE: Snow-capped mountains, pristine white snow, snow-covered pine trees, clear blue sky, bright crisp winter daylight.\nPOSITIONING: Elevated rider looking down, kneeling partner looking up, strong romantic fairy-tale eye contact.\nLIGHTING: Natural bright winter sunlight, crisp shadows, clean ambient light.\n9:16 vertical, sharp focus on both subjects and horse, cinematic winter grading, natural skin texture, photorealistic, 8K."
+          ],
+          "negative_prompt": "face distortion, identity drift, altered lips, altered eyes, altered jawline, changed hairstyle, extra limbs, extra hands, missing fingers, warped horse anatomy, floating bodies, blur, low resolution, watermark, text, logo",
+          "editor": "apero_qwen_image_editor",
+          "tag_title": "free",
+          "is_video_template": false,
+          "frame_number": null,
+          "frame_rate": null,
+          "width": null,
+          "height": null,
+          "guidance_scale": null,
+          "steps": null,
+          "image_size": null,
+          "use_image_caption": null,
+          "use_frame_interpolation": null,
+          "enable_swapface": null,
+          "enable_inpaint": null,
+          "upscaler_x_times": null,
+          "enable_assistant": null,
+          "seed": null,
+          "keep_face": null
+        }
+      ]
+    }
+  ]
+}
