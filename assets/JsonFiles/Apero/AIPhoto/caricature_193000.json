@@ -7,6 +7,38 @@
       "showSeeAll": "true",
       "PackList": [
         {
+          "id": 193009,
+          "title": "Streamer",
+          "cat_id": 193000,
+          "template_type": "image",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/TopTrending/streamer.webp",
+          "imageCount": 1,
+          "credits": 1,
+          "mode": "FAST_EDITING",
+          "positive_prompts": [
+            "Create a high-quality cartoon caricature illustration based on the input photo.\n\nSTRICT IDENTITY PRESERVATION:\n- Keep the same facial structure, eye shape, nose, lips, jawline, skin tone, hairstyle, and hair color as the input photo\n- The person must be immediately recognizable as the same individual\n- Do NOT change gender, ethnicity, or age\n\nFACIAL EXPRESSION:\n- Make the expression playful, cheerful, slightly mischievous\n- Bright eyes, cheeky smile, fun vibe\n- Slight caricature exaggeration but keep likeness accurate\n\nSTYLE:\n- Cartoon / caricature illustration, clean smooth line art\n- Soft shading, vibrant colors, semi-3D polished digital illustration\n- High detail, professional, not childish\n\nPOSE & COMPOSITION:\n- Person sitting at a streamer desk, upper body visible, facing camera\n- Hands on desk near keyboard/mouse or holding a controller\n- Natural confident posture\n\nSTREAMER DESK & PROPS (add many streamer-related objects):\n- Large microphone on boom arm with pop filter\n- Audio interface / mixer (e.g., stream deck / soundboard)\n- Dual monitors showing OBS-like streaming layout (chat window + live preview)\n- RGB mechanical keyboard, gaming mouse, mousepad\n- Ring light / softbox light, small camera/webcam on tripod\n- Headphones on stand, gaming controller\n- Streaming signboards: “LIVE”, “ON AIR”, subscriber counter\n- Neon LED strips, colorful ambient lighting\n- Shelves with awards/trophies, creator plaques, figurines\n- Chat bubbles / notification overlays as subtle UI elements\n- Sticky notes with content ideas, schedule planner, script pages\n- Snack props: energy drink, coffee cup, chips, seltzer can\n- Tech clutter: cables, SD cards, lens cap, portable SSD\n- Optional: green screen folded in the corner\n\nBACKGROUND:\n- Cozy home studio / streamer room\n- Posters, LED panels, wall foam acoustic panels\n- Depth of field, background slightly blurred but objects still readable\n\nLIGHTING:\n- Soft studio light on face, warm highlights, clean contrast\n- Slight rim light from LED strips\n\nQUALITY:\n- Ultra high resolution, sharp, clean details, no artifacts\n"
+          ],
+          "negative_prompt": "face alteration, changed lips, changed eyes, floating body, cartoon look, warped hands, extra fingers, blur, watermark, logo, text",
+          "editor": "apero_qwen_image_editor",
+          "tag_title": "free",
+          "is_video_template": false,
+          "frame_number": null,
+          "frame_rate": null,
+          "width": null,
+          "height": null,
+          "guidance_scale": null,
+          "steps": null,
+          "image_size": null,
+          "use_image_caption": null,
+          "use_frame_interpolation": null,
+          "enable_swapface": null,
+          "enable_inpaint": null,
+          "upscaler_x_times": null,
+          "enable_assistant": null,
+          "seed": null,
+          "keep_face": null
+        },
+        {
           "id": 193001,
           "title": "Cafe Vibes",
           "cat_id": 193000,
