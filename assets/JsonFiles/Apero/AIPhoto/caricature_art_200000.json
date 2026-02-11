@@ -1,0 +1,40 @@
+{
+  "Templates": [
+    {
+      "id": 200000,
+      "title": [
+        "Caricature Art",
+        "Caricature Art"
+      ],
+      "parent": "all_apero_qwen_categories",
+      "showSeeAll": true,
+      "PackList": [
+        {
+          "id": 200001,
+          "title": "Nurse",
+          "cat_id": 200000,
+          "template_type": "image",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/CaricatureProfessionals/streamer.webp",
+          "imageCount": 1,
+          "credits": 1,
+          "mode": "ART_PREMIUM",
+          "editor": "apero_art_premium",
+          "style": "Artist_female",
+          "positive_prompts": [
+            "Core Subject:\n\nA high-quality 3D digital illustration in a stylized, Pixar-inspired animation aesthetic. The central figure is a vibrant, young Black female nurse with a warm, joyful expression, winking at the camera. She has voluminous, tight red-auburn curls styled in a short afro. She is sitting cross-legged in a meditative lotus pose on a plush, cream-colored circular rug.\n\nAttire & Accessories:\n\nShe wears teal-colored medical scrubs over a black long-sleeve undershirt. A black stethoscope is draped around her neck, featuring a small red heart charm. She wears large, circular dangle earrings with a horizontal striped pattern in earth tones, wooden prayer bead bracelets on both wrists, and blue sneakers with white laces. Two ID badges are clipped to her scrubs: one featuring a small photo and another with a red heart icon.\n\nPose & Props:\n\nHer right hand is raised in a \"Gyan Mudra\" (OK gesture), while her left hand holds a glowing, stylized red 3D heart with a golden EKG pulse line running through it. A similar glowing heart floats in the air to her right.\n\nEnvironment & Background:\n\nThe setting is a cozy, sunlit room blending a medical office with a meditation space. In the background, a serene Buddha statue sits next to a burning white candle and purple crystals. To the right, a whiteboard displays colorful EKG heart rate graphs. A laptop on the floor also shows a heart rhythm. A glowing lotus flower icon floats near a window that looks out onto lush green trees under a bright blue sky.\n\nLighting & Atmosphere:\n\nThe atmosphere is peaceful, energetic, and zen. The lighting is warm and cinematic, with soft golden bokeh light particles floating throughout the air. Colors are highly saturated, with a focus on teal, vibrant red, and warm wood tones."
+          ],
+          "negative_prompt": "",
+          "image_size": 960,
+          "fix_width": 768,
+          "fix_height": 768,
+          "seed": 1,
+          "fast_mode": false,
+          "use_controlnet": false,
+          "apply_pulid": false,
+          "tag_title": "premium",
+          "is_video_template": false
+        }
+      ]
+    }
+  ]
+}
