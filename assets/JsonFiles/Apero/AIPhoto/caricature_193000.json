@@ -71,38 +71,6 @@
           "keep_face": null
         },
         {
-          "id": 193003,
-          "title": "Gym Queen",
-          "cat_id": 193000,
-          "template_type": "image",
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/Caricature/caricature_3.webp",
-          "imageCount": 1,
-          "credits": 1,
-          "mode": "IMAGE_EDITING",
-          "positive_prompts": [
-            "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve core facial identity, eye shape, eye color, facial structure in high-quality 3D digital caricature form.\n\nCALICATURE STYLE: High-quality 3D digital caricature, trendy 3D avatar style, Octane render, vibrant saturation, sharp focus, clean lines, whimsical yet professional digital art finish, 8K resolution.\n\nFACIAL DETAILS (HYPER-FOCUS): Large expressive almond-shaped shadowless eyes with deep chocolate brown irises matching original eye color, realistic catchlights (white reflections) giving glassy depth. NO eyelashes around eyes. Thick voluminous black mascara-coated lashes fanning out at corners. Perfectly arched groomed eyebrows with visible fine hair strokes. Subtle shimmering champagne eyeshadow, sharp black winged eyeliner flick, soft rosy-pink blush on cheekbones. Full symmetrical pouty lips with soft satin mauve-pink finish and defined cupid's bow. Flawless glowing porcelain skin with smooth airbrushed texture, soft highlights on nose bridge and forehead.\n\nHAIR: Long voluminous honey-blonde hair with sun-kissed highlights, styled in deep bouncy waves swept to one side, intricate texture with individual golden strands catching light.\n\nPOSE & OUTFIT: Medium shot, confidently holding pink 5lb dumbbell in right hand, left hand on hip. Pink leopard-print crop top and black high-waisted leggings.\n\nBACKGROUND: Vibrant cluttered boutique gym with colorful fitness gear - pink dumbbells, rolled purple yoga mats, green smoothie bottles with orange slices, pink shaker bottle, motivational posters saying \"Keep Going\" and \"Start Now.\"\n\nLIGHTING: Bright cinematic studio lighting, soft pastel color palette (pinks, blues, teals).\n\n9:16 vertical, 3D rendered caricature, vibrant fitness aesthetic, 8K quality."
-          ],
-          "negative_prompt": "photorealistic, realistic photo, 2D flat art, normal proportions, no 3D rendering, dull colors, plain gym, no equipment, no motivational elements, sketchy quality, low resolution, blurry, completely different face, wrong eye color, dark lighting, watermark, text, borders",
-          "editor": "apero_qwen_image_editor",
-          "tag_title": "free",
-          "is_video_template": false,
-          "frame_number": null,
-          "frame_rate": null,
-          "width": null,
-          "height": null,
-          "guidance_scale": null,
-          "steps": null,
-          "image_size": null,
-          "use_image_caption": null,
-          "use_frame_interpolation": null,
-          "enable_swapface": null,
-          "enable_inpaint": null,
-          "upscaler_x_times": null,
-          "enable_assistant": null,
-          "seed": null,
-          "keep_face": null
-        },
-        {
           "id": 193004,
           "title": "World Traveler",
           "cat_id": 193000,
