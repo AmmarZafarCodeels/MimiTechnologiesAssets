@@ -261,38 +261,6 @@
           "enable_assistant": null,
           "seed": null,
           "keep_face": null
-        },
-        {
-          "id": 202010,
-          "title": "Phantom Masquerade",
-          "cat_id": 202000,
-          "template_type": "image",
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/FantasyRealms/phantom_gala.webp",
-          "imageCount": 1,
-          "credits": 1,
-          "mode": "IMAGE_EDITING",
-          "positive_prompts": [
-            "ABSOLUTE IDENTITY LOCK (MANDATORY): Use attached photo as ONLY facial reference. Preserve exact facial structure, eye shape, eye color, eyebrows, nose, lips, jawline, chin, skin texture, facial proportions.\n\nPhotorealistic cinematic portrait of a young woman in a gothic cathedral ballroom, waist-up and centered, wearing an ornate silver half-mask over her right eye with intricate filigree and a single purple jewel, soft loose updo with face-framing tendrils, smoky eye makeup and neutral matte lips, pale flawless skin and a calm solemn expression, dressed in a black velvet medieval-inspired gown with a deep V neckline richly embroidered with silver lace and small gems down the bodice, warm candlelight and cool rim light sculpting her features, tall arched windows and soft bokeh in the background with silhouetted dancers holding hands, shallow depth of field, 85mm perspective, f/1.8, high-detail textures on metalwork and embroidery, realistic skin pores and fine hair, rich contrast, muted palette of deep blacks, cool silvers and warm ambers, soft film grain, dramatic moody atmosphere, ultra-detailed, high resolution.\n\n9:16 vertical."
-          ],
-          "negative_prompt": "identity change, face reshaping, wrong eye color, different facial features, cartoon, anime, low quality, blurry, watermark, text, borders",
-          "editor": "apero_qwen_image_editor",
-          "tag_title": "free",
-          "is_video_template": false,
-          "frame_number": null,
-          "frame_rate": null,
-          "width": null,
-          "height": null,
-          "guidance_scale": null,
-          "steps": null,
-          "image_size": null,
-          "use_image_caption": null,
-          "use_frame_interpolation": null,
-          "enable_swapface": null,
-          "enable_inpaint": null,
-          "upscaler_x_times": null,
-          "enable_assistant": null,
-          "seed": null,
-          "keep_face": null
         }
       ]
     }
