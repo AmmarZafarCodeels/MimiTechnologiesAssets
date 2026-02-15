@@ -2,7 +2,7 @@
   "Templates": [
     {
       "id": 205000,
-      "title": ["Carnaval (BR)", "Carnaval (BR)"],
+      "title": ["Carnival (BR)", "Carnival (BR)"],
       "parent": "all_apero_qwen_categories",
       "showSeeAll": "true",
       "PackList": [
