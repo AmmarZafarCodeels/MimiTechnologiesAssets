@@ -1,0 +1,29 @@
+{
+  "Templates": [
+    {
+      "id": 219000,
+      "title": ["Trending", "Trending"],
+      "parent": "all_lip_sync_categories",
+      "showSeeAll": "false",
+      "PackList": [
+        {
+          "id": 219001,
+          "title": "Romantic I Love You",
+          "cat_id": 219000,
+          "template_type": "video",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_1/cover.webp",
+          "video_url": "",
+          "audio_url": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_1/audio.mp3",
+          "imageCount": 1,
+          "credits": 35,
+          "positive_prompts": [
+            "Natural realistic lip sync"
+             ],
+           "editor": "lip_sync_editor",
+          "tag_title": "free",
+          "is_video_template": false
+        }
+      ]
+    }
+  ]
+}
