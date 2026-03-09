@@ -4,7 +4,7 @@
       "id": 219000,
       "title": ["Trending", "Trending"],
       "parent": "all_lip_sync_categories",
-      "showSeeAll": "false",
+      "showSeeAll": "true",
       "PackList": [
         {
           "id": 219001,
