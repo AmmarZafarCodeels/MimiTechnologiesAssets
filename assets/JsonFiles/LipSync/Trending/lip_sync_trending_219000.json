@@ -22,6 +22,23 @@
            "editor": "lip_sync_editor",
           "tag_title": "free",
           "is_video_template": true
+        },
+        {
+          "id": 219002,
+          "title": "Let it be",
+          "cat_id": 219000,
+          "template_type": "video",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_2/cover.webp",
+          "video_url": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_2/video.mp4",
+          "audio_url": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_2/audio.mp3",
+          "imageCount": 1,
+          "credits": 35,
+          "positive_prompts": [
+            "Natural realistic lip sync"
+          ],
+          "editor": "lip_sync_editor",
+          "tag_title": "free",
+          "is_video_template": true
         }
       ]
     }
