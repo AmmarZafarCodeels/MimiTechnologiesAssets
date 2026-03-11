@@ -39,6 +39,23 @@
           "editor": "lip_sync_editor",
           "tag_title": "free",
           "is_video_template": true
+        },
+        {
+          "id": 219003,
+          "title": "Baby Baby",
+          "cat_id": 219000,
+          "template_type": "video",
+          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_3/cover.webp",
+          "video_url": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_3/video.mp4",
+          "audio_url": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/LipSync/Trending/template_3/audio.mp3",
+          "imageCount": 1,
+          "credits": 35,
+          "positive_prompts": [
+            "Natural realistic lip sync"
+          ],
+          "editor": "lip_sync_editor",
+          "tag_title": "free",
+          "is_video_template": true
         }
       ]
     }
