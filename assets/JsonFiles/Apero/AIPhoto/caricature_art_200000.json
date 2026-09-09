@@ -14,7 +14,7 @@
           "title": "Nurse",
           "cat_id": 200000,
           "template_type": "image",
-          "cover": "https://raw.githubusercontent.com/AmmarZafarCodeels/MimiTechnologiesAssets/refs/heads/main/assets/AiPhotos/CaricatureProfessionals/streamer.webp",
+          "cover": "https://cdn.jsdelivr.net/gh/AmmarZafarCodeels/MimiTechnologiesAssets@main/assets/AiPhotos/CaricatureProfessionals/streamer.webp",
           "imageCount": 1,
           "credits": 1,
           "mode": "ART_PREMIUM",
